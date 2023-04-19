@@ -1,4 +1,4 @@
-import pytorch
+import bert_pytorch
 import pandas as pd
 import numpy as np
 from transformers import AutoTokenizer
